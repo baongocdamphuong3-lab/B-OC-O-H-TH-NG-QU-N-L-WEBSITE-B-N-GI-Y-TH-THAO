@@ -16,6 +16,7 @@
 | 1   | Vũ Quốc Khánh | TD01353  | - Hiển thị sản phẩm, chỉnh sửa thông tin người dùng <br> - Checkout,Sổ địa chỉ, quản lý sản phẩm (shoes detail) <br> - Tổng hợp code   |
 | 2   |  Đàm Phương Bảo Ngọc     | TD01387  | - Đăng nhập đăng xuất, phân quyền <br> - Quản lý banner, blog, voucher (admin) <br> - Đọc blog,bình luận,sản phẩm yêu thích (customer)|
 | 3   | Võ Ngọc Tân    |  TD01222 | - Quản lý shoes category, shoes color, shoes<br> - Quản lý phiếu mua, khuyến mãi  (admin) <br> - Theo dõi đơn hàng, hiện video sản phẩm|
+| 3   | Ngô Công Danh    |  TD01271 | Thiết kế & Quản lý danh mục sản phẩm (Shoes Category, Color, Size) <br> - Xây dựng hệ thống quản lý khuyến mãi và mã giảm giá (Admin) <br> - Phát triển tính năng theo dõi đơn hàng và tích hợp video sản phẩm |
 1.1 Mục đích của hệ thống
 Dự án Website bán giày trực tuyến được thực hiện bởi cá nhân / nhóm sinh viên ngành Công nghệ thông tin nhằm xây dựng một hệ thống thương mại điện tử hỗ trợ việc bán giày online.
 Mục tiêu của dự án là thiết kế và phát triển một website cho phép khách hàng dễ dàng tìm kiếm, xem thông tin sản phẩm và đặt mua giày trực tuyến. Đồng thời hệ thống cũng hỗ trợ quản trị viên quản lý sản phẩm, khách hàng và đơn hàng một cách hiệu quả.
